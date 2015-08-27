@@ -233,4 +233,7 @@
   <data name="ReportABug" xml:space="preserve">
     <value>Сообщить о баге</value>
   </data>
+  <data name="checkBoxPreviewBuilds" xml:space="preserve">
+    <value>Включить телеметрию для предварительных сборок</value>
+  </data>
 </root>

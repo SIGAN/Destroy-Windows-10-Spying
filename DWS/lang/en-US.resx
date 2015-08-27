@@ -233,4 +233,7 @@ Restart now?</value>
   <data name="ReportABug" xml:space="preserve">
     <value>Report a bug</value>
   </data>
+  <data name="checkBoxPreviewBuilds" xml:space="preserve">
+    <value>Allow telemetry required for preview builds</value>
+  </data>
 </root>

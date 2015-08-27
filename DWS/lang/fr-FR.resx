@@ -236,4 +236,7 @@ Redémarrer maintenant ?</value>
   <data name="ReportABug" xml:space="preserve">
     <value>Report a bug</value>
   </data>
+  <data name="checkBoxPreviewBuilds" xml:space="preserve">
+    <value>Laisser télémétrie requise pour la prévisualisation construit</value>
+  </data>
 </root>

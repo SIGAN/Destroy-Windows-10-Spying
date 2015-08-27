@@ -231,4 +231,7 @@ Un reinicio es necesario para deshabilitar todo el spyware. Reiniciar ahora?</va
   <data name="ReportABug" xml:space="preserve">
     <value>Informar de un error</value>
   </data>
+  <data name="checkBoxPreviewBuilds" xml:space="preserve">
+    <value>Permita telemetría para pre-escucha construye</value>
+  </data>
 </root>

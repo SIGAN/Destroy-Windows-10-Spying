@@ -159,6 +159,12 @@ namespace DWS_Lite.lang {
             }
         }
         
+        internal static string checkBoxPreviewBuilds {
+            get {
+                return ResourceManager.GetString("checkBoxPreviewBuilds", resourceCulture);
+            }
+        }
+        
         /// <summary>
         ///   Busca una cadena traducida similar a Establecer el visor de imágenes por defecto de Windows.
         /// </summary>

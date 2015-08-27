@@ -160,6 +160,15 @@ namespace DWS_Lite.lang {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Laisser télémétrie requise pour la prévisualisation construit.
+        /// </summary>
+        internal static string checkBoxPreviewBuilds {
+            get {
+                return ResourceManager.GetString("checkBoxPreviewBuilds", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Visionneuse de photos Windows par défaut.
         /// </summary>
         internal static string checkBoxSetDefaultPhoto {

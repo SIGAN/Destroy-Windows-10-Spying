@@ -160,6 +160,15 @@ namespace DWS_Lite.lang {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Включить телеметрию для предварительных сборок.
+        /// </summary>
+        internal static string checkBoxPreviewBuilds {
+            get {
+                return ResourceManager.GetString("checkBoxPreviewBuilds", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Установить стандартный просмотрщик фото.
         /// </summary>
         internal static string checkBoxSetDefaultPhoto {

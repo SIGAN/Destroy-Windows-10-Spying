@@ -154,6 +154,7 @@ namespace DWS_Lite
             checkBoxKeyLoggerAndTelemetry.Text = GetTranslateText("checkBoxKeyLoggerAndTelemetry");
             checkBoxSetDefaultPhoto.Text = GetTranslateText("checkBoxSetDefaultPhoto");
             checkBoxSPYTasks.Text = GetTranslateText("checkBoxSPYTasks");
+            checkBoxPreviewBuilds.Text = GetTranslateText("checkBoxPreviewBuilds");
             labelInfoDeleteMetroApps.Text = GetTranslateText("labelInfoDeleteMetroApps");
             btnEnableUac.Text = GetTranslateText("Enable") + " UAC";
             btnDisableUac.Text = GetTranslateText("Disable") + " UAC";
